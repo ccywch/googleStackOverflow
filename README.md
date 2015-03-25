@@ -1,0 +1,2 @@
+We compare the trend of 185 programming topics between Google and StackOverflow to check the relationship between two information sources. You can download the results from the zip file. If you have any questions, do not hesitate to contact us by email (chen0966@e.ntu.edu.sg). 
+Thanks a lot. 
